@@ -3,7 +3,7 @@
 A Streamlit web application that uses deep learning to detect and classify 50 different types of car parts from images.
 
 ## Features
-
+-change 
 - Upload image detection
 - Real-time prediction
 - 50 different car part classifications
